@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-omega-ecru.vercel.app/](https://portfolio-website-omega-ecru.vercel.app/)
 
-- 💬 Ask me about **Android MERN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **anujsrivastavaofficial@gmail.com**
 
